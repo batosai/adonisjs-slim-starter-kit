@@ -75,7 +75,7 @@ Your app will be running at `http://localhost:3333`
 
 ## Contributing
 
-This slim starter kit is maintained by the Jeremy Chaufourier. Found a bug or have a suggestion? [Open an issue](hhttps://github.com/batosai/adonisjs-slim-starter-kit/issues) or submit a pull request!
+This slim starter kit is maintained by the Jeremy Chaufourier. Found a bug or have a suggestion? [Open an issue](https://github.com/batosai/adonisjs-slim-starter-kit/issues) or submit a pull request!
 
 ---
 
